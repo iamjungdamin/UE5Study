@@ -26,3 +26,13 @@ Possess 구조 - 지배, 소유, 빙의
 Default Pawn 클래스
 Collision Component, Mesh Component, Movement Component
 
+
+
+입력 처리 절차
+Hardward Input from Player -> Player Input Mapping ->
+Input-Enable Actor -> PlayerController -> Level Blueprint -> Pawn
+--> Game Logic
+
+플레이어 입력 매핑
+액션 매핑과 축 매핑
+
