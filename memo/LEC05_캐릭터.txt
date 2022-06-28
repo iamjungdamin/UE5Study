@@ -1,0 +1,20 @@
+Character 클래스
+걷기, 점프 등이 가능한 직립 객체
+기본 네트워킹 및 입력 처리 기능 내장
+
+Pawn의 자식 클래스, Pawn 클래스에 세개의 컴포넌트가 추가됨
+Capsule Component: 물리 담당
+Skeletal Mesh Component: 비주얼 담당
+Character Movement Component: 운동 담당
+
+
+
+
+프레임 인디펜던트 무브먼트
+PC의 성능과 관계없이 균일한 움직임
+
+
+
+캐릭터 이동 및 회전은 PlayerController 를 사용
+이동 Translation, 회전 Rotation
+
