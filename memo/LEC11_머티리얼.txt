@@ -38,3 +38,11 @@ Opaque, Masked, Translucent
 
 
 
+다이나믹 머티리얼 인스턴스 DMI
+
+
+
+슬롯
+매쉬 내에서 머티리얼을 각기 다르게 적용할 구역
+
+
