@@ -1,0 +1,9 @@
+지오메트리 브러시
+
+
+
+랜드스케이프 시스템
+자연 풍경의 렌더링에 특화된 시스템
+
+Manage Mode, Sculpt Mode, Paint Mode
+
